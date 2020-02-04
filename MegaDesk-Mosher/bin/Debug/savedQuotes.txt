@@ -1,0 +1,148 @@
+[
+  {
+    "userDesk": {
+      "deskWidth": 30.0,
+      "deskDepth": 25.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 3
+    },
+    "clientFirstName": "Scott",
+    "clientLastName": "Mosher",
+    "submitDate": "02/02/2020 14:23 PM",
+    "quoteTotal": 610.0
+  },
+  {
+    "userDesk": {
+      "deskWidth": 45.0,
+      "deskDepth": 19.0,
+      "numDrawers": 7,
+      "surfaceMaterial": "Veneer",
+      "rushOption": 3
+    },
+    "clientFirstName": "Scott",
+    "clientLastName": "Mosher",
+    "submitDate": "02/02/2020 14:23 PM",
+    "quoteTotal": 735.0
+  },
+  {
+    "userDesk": {
+      "deskWidth": 80.0,
+      "deskDepth": 48.0,
+      "numDrawers": 7,
+      "surfaceMaterial": "Veneer",
+      "rushOption": 5
+    },
+    "clientFirstName": "Scott",
+    "clientLastName": "Mosher",
+    "submitDate": "02/02/2020 14:24 PM",
+    "quoteTotal": 3550.0
+  }
+]
+[
+  {
+    "userDesk": {
+      "deskWidth": 30.0,
+      "deskDepth": 19.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 14
+    },
+    "clientFirstName": "Scotty",
+    "clientLastName": "Mosher",
+    "submitDate": "02/02/2020 14:29 PM",
+    "quoteTotal": 550.0
+  }
+]
+[
+  {
+    "userDesk": {
+      "deskWidth": 30.0,
+      "deskDepth": 19.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 14
+    },
+    "clientFirstName": "Steve",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:00 AM",
+    "quoteTotal": 550.0,
+    "deskMaterial": "Oak"
+  }
+]
+[
+  {
+    "userDesk": {
+      "deskWidth": 30.0,
+      "deskDepth": 19.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 14
+    },
+    "clientFirstName": "Steve",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:00 AM",
+    "quoteTotal": 550.0,
+    "deskMaterial": "Oak"
+  },
+  {
+    "userDesk": {
+      "deskWidth": 40.0,
+      "deskDepth": 35.0,
+      "numDrawers": 7,
+      "surfaceMaterial": "Veneer",
+      "rushOption": 3
+    },
+    "clientFirstName": "Sara",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:00 AM",
+    "quoteTotal": 1115.0,
+    "deskMaterial": "Veneer"
+  }
+]
+[
+  {
+    "userDesk": {
+      "deskWidth": 35.0,
+      "deskDepth": 15.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 3
+    },
+    "clientFirstName": "Sara",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:06 AM",
+    "quoteTotal": 610.0,
+    "deskMaterial": "Oak"
+  }
+]
+[
+  {
+    "userDesk": {
+      "deskWidth": 35.0,
+      "deskDepth": 15.0,
+      "numDrawers": 3,
+      "surfaceMaterial": "Oak",
+      "rushOption": 3
+    },
+    "clientFirstName": "Sara",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:06 AM",
+    "quoteTotal": 610.0,
+    "deskMaterial": "Oak"
+  },
+  {
+    "userDesk": {
+      "deskWidth": 90.0,
+      "deskDepth": 18.0,
+      "numDrawers": 1,
+      "surfaceMaterial": "Veneer",
+      "rushOption": 3
+    },
+    "clientFirstName": "Adam",
+    "clientLastName": "Mosher",
+    "submitDate": "02/03/2020 10:07 AM",
+    "quoteTotal": 1035.0,
+    "deskMaterial": "Veneer"
+  }
+]
